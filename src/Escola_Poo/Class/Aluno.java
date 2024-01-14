@@ -5,7 +5,6 @@ import java.util.Date;
 public class Aluno extends Pessoa {
     // Colocando os atributos na classe
     private Date dataDeNascimento;
-
     private Turma turma;
 
     public Aluno() {

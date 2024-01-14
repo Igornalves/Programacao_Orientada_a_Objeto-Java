@@ -6,11 +6,8 @@ public class Turma {
     // Colocado os atributos da classe
     private String sigla;
     private int ano;
-
     private ArrayList<Aluno> alunos;
-
     private ArrayList<Professor> TemProfessores;
-
     private ArrayList<Disciplina> disciplinas;
 
     public Turma() {

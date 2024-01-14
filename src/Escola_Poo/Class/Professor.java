@@ -6,9 +6,7 @@ public class Professor extends Pessoa {
     // Colocando os atributos da classe
     private String formacaoAcademica;
     private double salario;
-
     private ArrayList<Disciplina> disciplinas;
-
     private ArrayList<Turma> turmasQueEnsina;
 
     public Professor() {

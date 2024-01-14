@@ -6,9 +6,7 @@ public class Disciplina {
     // Colocando os atributos da classe
     private String nomeDisciplina;
     private int cargaHoraria;
-
     private ArrayList<Professor> TemProfessores;
-
     private ArrayList<Turma> turmasQueTemADisciplina;
 
     public Disciplina() {
