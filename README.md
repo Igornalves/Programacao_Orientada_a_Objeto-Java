@@ -1,19 +1,18 @@
-# Programação Oriendada a Objeto com Java
+# Object Oriented Programming with Java
 
-Um projeto feito por um **iniciante/intermediario** em programação com total intuito de aprender a Programção Orientada a Objeto que a linguagem Java Proporciona:
+A project made by a **beginner/intermediate** in programming with the total intention of learning the Object Oriented Programming that the Java language provides:
 
 <div align="center" style="display: inline_block">
-<img  alt="java" width="190" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="java" width="190" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## Um pouco sobre o repositório
+## A little about the repository
 
-Aqui é um repositório no qual estarei postando Algums de meus projetos pessoais com o intuito de evoluir cada vez mais nessa linguagem tão vasta que é o java. 
+Here is a repository in which I will be posting some of my personal projects with the intention of evolving more and more in this vast language that is Java.
+
 <br><br>
-Algums desse projetos eu estarei 
-deixando comentados para que vcs possam entender, os que estiverem interesados, no que esta acontencendo no projeto e no codigo.
-<br>
+I will be leaving comments on some of these projects so that you can understand, those who are interested, what is happening in the project and in the code. <br>
 
 ---
 
-**Obrigado por ler! Espero que eu tenha ajudado voçê em seus estudos ou sua pesquisa com meu repositório.**
+**Thank you for reading! I hope I have helped you in your studies or research with my repository.**
